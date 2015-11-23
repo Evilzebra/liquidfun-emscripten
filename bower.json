@@ -1,0 +1,24 @@
+{
+    "name": "liquidfun",
+    "description": "This is a bower repository to hold LiquidFun releases",
+    "version": "1.1.0",
+    "author": {
+        "name": "https://github.com/Evilzebra"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/Evilzebra/liquidfun-bower.git"
+    },
+    "main": "liquidfun.js",
+    "ignore": [
+        "jsBindings",
+        "testbed",
+        "callbacks.js",
+        "index.html",
+        "lf_core.js",
+        "Makefile",
+        "uglify.sh"
+    ],
+    "dependencies": {
+    }
+}
