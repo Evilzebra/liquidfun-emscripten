@@ -1,5 +1,5 @@
 {
-    "name": "liquidfun",
+    "name": "liquidfun-emscripten",
     "version": "1.1.0",
     "description": "LiquidFun emscripten releases.",
     "repository": {
