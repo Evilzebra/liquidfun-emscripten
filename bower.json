@@ -1,10 +1,10 @@
 {
     "name": "liquidfun",
-    "description": "This is a bower repository to hold LiquidFun releases",
+    "description": "This is a package to hold LiquidFun emscripten releases.",
     "version": "1.1.0",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Evilzebra/liquidfun-bower.git"
+        "url": "git://github.com/Evilzebra/liquidfun-emscripten.git"
     },
     "main": "liquidfun.js",
     "ignore": [
@@ -15,7 +15,5 @@
         "lf_core.js",
         "Makefile",
         "uglify.sh"
-    ],
-    "dependencies": {
-    }
+    ]
 }
