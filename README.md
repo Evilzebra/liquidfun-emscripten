@@ -8,14 +8,14 @@ This can be installed with `npm` or `bower`.
 
 <h3>npm</h3>
 	
-    npm install liquidfun
+    npm install liquidfun-emscripten
 then add `<script>` tag to your page
 
     <script src="/node_modules/liquidfun/liquidfun.js"></script>
 
 <h3>bower</h3>
 
-    bower install liquidfun
+    bower install liquidfun-emscripten
 then add `<script>` tag to your page
 
     <script src="/bower_components/liquidfun/liquidfun.js"></script>
