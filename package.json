@@ -1,12 +1,12 @@
 {
     "name": "liquidfun-emscripten",
-    "version": "1.1.2",
+    "version": "1.1.3",
     "description": "LiquidFun emscripten releases.",
     "repository": {
         "type": "git",
         "url": "https://github.com/Evilzebra/liquidfun-emscripten.git"
     },
-    "main": "liquidfun.js",
+    "main": "dist/liquidfun.js",
     "keywords": [
         "liquidfun",
         "emscripten",
@@ -20,5 +20,12 @@
     "bugs": {
         "url": "https://github.com/Evilzebra/liquidfun-emscripten/issues"
     },
-    "homepage": "https://github.com/Evilzebra/liquidfun-emscripten#readme"
+    "homepage": "https://github.com/Evilzebra/liquidfun-emscripten#readme",
+    "devDependencies": {
+        "gulp": "^4.0.0",
+        "gulp-clean": "^0.4.0",
+        "gulp-concat": "^2.6.1",
+        "gulp-find": "0.0.10",
+        "gulp-replace": "^1.0.0"
+    }
 }
