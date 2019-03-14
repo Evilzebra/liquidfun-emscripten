@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/Evilzebra/liquidfun-emscripten.git"
     },
-    "main": "dist/liquidfun.js",
+    "main": "liquidfun.js",
     "keywords": [
         "liquidfun",
         "emscripten",
@@ -15,12 +15,6 @@
     ],
     "author": "Nicholas Horlocker (http://evil-zebra.com)",
     "ignore": [
-        "jsBindings",
-        "testbed",
-        "callbacks.js",
-        "index.html",
-        "lf_core.js",
-        "Makefile",
-        "uglify.sh"
+        "node_modules"
     ]
 }

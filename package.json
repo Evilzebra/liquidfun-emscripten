@@ -6,7 +6,7 @@
         "type": "git",
         "url": "https://github.com/Evilzebra/liquidfun-emscripten.git"
     },
-    "main": "dist/liquidfun.js",
+    "main": "liquidfun.js",
     "keywords": [
         "liquidfun",
         "emscripten",
