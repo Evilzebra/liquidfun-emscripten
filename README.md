@@ -21,11 +21,11 @@ Using this with node is the same as any other module, the web usage is slightly 
 ### Web
 Add `<script>` tag to your page
 
-    <script src="/node_modules/liquidfun/liquidfun.js"></script>
+    <script src="/node_modules/liquidfun-emscripten/liquidfun.js"></script>
 
 or (depending on package manager)
 
-    <script src="/bower_components/liquidfun/liquidfun.js"></script>
+    <script src="/bower_components/liquidfun-emscripten/liquidfun.js"></script>
     
 ---
 
